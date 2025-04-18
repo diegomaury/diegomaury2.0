@@ -1,0 +1,68 @@
+/* Fuentes base */
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    background-color: #F8F6F1;
+    color: #1C1C24;
+  }
+  
+  /* HERO section */
+  .hero {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #F8F6F1;
+  }
+  
+  .hero .logo {
+    width: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .hero h1 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 3rem;
+    color: #4B2672;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .boton {
+    background-color: #246BFD;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 40px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  /* SOBRE MÍ */
+  .sobre-mi {
+    padding: 60px 20px;
+    max-width: 700px;
+    margin: auto;
+  }
+  
+  .sobre-mi h2 {
+    color: #4B2672;
+    font-family: 'Outfit', sans-serif;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  /* CONTACTO */
+  .contacto {
+    background-color: #4B2672;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+  }
+  
+  .contacto h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
